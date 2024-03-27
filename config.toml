@@ -1,0 +1,9 @@
+[sessions]
+api_hash = "0a16821cea0676027a0b15798d32ac46"
+api_id = 11122558
+
+[flood]
+messages = [ "hi",]
+delay = [ 2,]
+messages_count = 0
+trigger = "fack"
